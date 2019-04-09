@@ -1,0 +1,10 @@
+.test{
+    color: rgb(73, 73, 73);
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(226, 226, 226);
+    margin-top: 5px;
+}
